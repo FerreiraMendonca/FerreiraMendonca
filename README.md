@@ -4,11 +4,9 @@
 - 
 - 🌱 I’m currently learning  WEB DEVELOPER /JAVA DEVELOPER
 - 
-- 💞️ I’m looking to Colaborar em um ambiente de trabalho e colocar em pratica meus conhecimentos em favor da instituição na qual viso integrar, focando sempre o beneficio e o crescimento da organização e o crescimento profissional.
+- 💞️ I’m looking to Colaborar em um ambiente de trabalho e colocar em pratica meus conhecimentos em favor da instituição na qual viso integrar.
 - 
 - 📫 How to reach me : Meu contato via ligação é > (34)98400-2935 ou pelo WhatsApp (34)99807-4611.
-- 
-
 <!--
 FerreiraMendonca/FerreiraMendonca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
